@@ -1,4 +1,4 @@
 {
-    "version": "1.1",
-    "notes": "Changed script name and added bs-lib dependency. To download bs-lib go to: https://bruno-scripts.tebex.io/package/6492625"
+    "version": "1.1.1",
+    "notes": "Complete rework of the script, new Config file organization to allow more than 1 bag with individually options!"
 }
