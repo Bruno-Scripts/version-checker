@@ -1,4 +1,4 @@
 {
-    "version": "1.0.1",
-    "notes": "Made somes changes on server BS.hasItem and BS.setAppearance function"
+    "version": "1.0.2",
+    "notes": "Added new getGrade server function and changed illenium-appearance outfit event!"
 }
