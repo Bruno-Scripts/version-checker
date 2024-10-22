@@ -1,4 +1,4 @@
 {
-    "version": "1.1",
-    "notes": "Changed script name and added bs-lib dependency. To download bs-lib go to: https://bruno-scripts.tebex.io/package/6492625"
+    "version": "1.2",
+    "notes": "A complete rewrite of the script, completely eliminating the use of Config.Blips, except for migrating the blips to the database!"
 }
