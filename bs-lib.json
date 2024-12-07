@@ -1,4 +1,4 @@
 {
-    "version": "1.0.3",
-    "notes": "Changed the BS.input function and removing qb-input and qb-menu compatibility for now!"
+    "version": "1.0.4",
+    "notes": "More organized Utils folder, with new functions. Added new Frameworks functions for the recent bs-mechanic update and upcoming scripts and solved an issue with qb-inventory!"
 }
