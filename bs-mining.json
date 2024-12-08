@@ -1,4 +1,4 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "notes": "Solved an issue on codem-inventory with SetMetadata export and make numerous changes on Config file"
 }
