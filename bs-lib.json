@@ -1,4 +1,4 @@
 {
-    "version": "1.0.4",
-    "notes": "More organized Utils folder, with new functions. Added new Frameworks functions for the recent bs-mechanic update and upcoming scripts and solved an issue with qb-inventory!"
+    "version": "1.0.5",
+    "notes": "Added Qbox compatibility and solved more issues with qb-inventory!."
 }
