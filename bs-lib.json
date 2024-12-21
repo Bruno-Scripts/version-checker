@@ -1,4 +1,4 @@
 {
-    "version": "1.0.5",
-    "notes": "Added Qbox compatibility and solved more issues with qb-inventory!."
+    "version": "1.0.6",
+    "notes": "Solved some problems with CFX Escrow and ox_inventory | Added VORP Core compatibility to upcoming scripts | Organized all Inventories folder and deleted some Inventories"
 }
