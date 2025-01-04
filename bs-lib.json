@@ -1,4 +1,4 @@
 {
-    "version": "1.0.6",
-    "notes": "Solved some problems with CFX Escrow and ox_inventory | Added VORP Core compatibility to upcoming scripts | Organized all Inventories folder and deleted some Inventories"
+    "version": "1.0.7",
+    "notes": "Added a Inventory Imagem Directory to Config for the last bs-mechanic update | Add bs-lib/lib/client/init.lua & update config.lua"
 }
