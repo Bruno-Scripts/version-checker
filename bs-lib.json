@@ -1,4 +1,4 @@
 {
-    "version": "1.0.7",
-    "notes": "Added a Inventory Imagem Directory to Config for the last bs-mechanic update | Add bs-lib/lib/client/init.lua & update config.lua"
+    "version": "1.0.8",
+    "notes": "Added Framework Events & Functions to ease the connection with our scripts"
 }
