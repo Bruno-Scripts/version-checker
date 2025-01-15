@@ -1,4 +1,4 @@
 {
-    "version": "1.2.1",
-    "notes": "A complete rewrite of the script, completely eliminating the use of Config.Blips, except for migrating the blips to the database and added a Management command to create and delete blips in game!"
+    "version": "1.2.2",
+    "notes": "Improved Job checker on client side for better optimizations."
 }
