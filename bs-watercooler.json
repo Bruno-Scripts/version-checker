@@ -1,4 +1,4 @@
 {
-    "version": "1.0.1",
-    "notes": "Changed script name and optimization of the code!"
+    "version": "1.1",
+    "notes": "Added compatibility with bs-lib and script optimizations"
 }
