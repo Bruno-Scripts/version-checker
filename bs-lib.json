@@ -1,4 +1,4 @@
 {
-    "version": "1.0.8",
-    "notes": "Added Framework Events & Functions to ease the connection with our scripts"
+    "version": "1.1.0",
+    "notes": "Rework on all Built-In features and added those to bs-lib for more easier connection with all our scripts."
 }
