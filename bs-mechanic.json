@@ -1,4 +1,4 @@
 {
-    "version": "1.4",
-    "notes": "Complete rework of all Built-In features and solve some problems with RemoveItem and AddItem exports throught bs-lib."
+    "version": "1.4.1",
+    "notes": "Solved a print with 'event was not safe for net'"
 }
